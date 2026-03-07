@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Denis</h1>
 
 <p align="center">
@@ -5,14 +6,14 @@ AI / Python Engineer • Backend Developer • Automation Builder
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=550&lines=AI+Engineer;Python+Developer;Building+AI+Automation+Tools;LLM+Integrations+%26+Bots;Backend+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=550&lines=AI+Engineer;Python+Developer;LLM+Integrations;Automation+Tools;Backend+Developer" />
 </p>
 
 ---
 
 # 🧠 About Me
 
-I build software that combines AI, automation and real‑world engineering.
+I build software that combines **AI, automation and real-world engineering**.
 
 My focus is creating tools that analyze information, automate workflows and provide intelligent interfaces using modern AI technologies.
 
@@ -29,59 +30,57 @@ Main areas I work with:
 
 # ⚙️ Tech Stack
 
-### 👨‍💻 Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### 🧩 Backend
+### Backend
 
 <p>
 <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://skillicons.dev/icons?i=nginx" />
 </p>
 
-### 🗄 Databases
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis" />
 </p>
 
-### 🖥 Infrastructure
+### Infrastructure
 
 <p>
 <img src="https://skillicons.dev/icons?i=linux,debian" />
 </p>
 
-### 🔧 Tools & APIs
+### Tools & APIs
 
-- Telegram Bot API
-- LLM integrations
-- GigaChat
-- Yandex OCR
-- AI image generation
+- Telegram Bot API  
+- GigaChat  
+- Yandex OCR  
+- LLM integrations  
+- AI image generation  
 
 ---
 
 # 🚀 Featured Projects
 
-## 🔎 Competitor Monitoring System
+## 🔎 Competitor Monitoring
 
-Repository:  
 https://github.com/DeNICE-AI/CompetitorMonitoring
 
-AI‑powered system for analyzing competitor websites and documents.
+AI-powered system for analyzing competitor websites and documents.
 
-Capabilities
+**Features**
 
-- website quality analysis
-- AI‑based recommendations
-- PDF document processing
-- OCR text extraction
-- competitor monitoring workflows
+- website quality analysis  
+- AI recommendations  
+- PDF document processing  
+- OCR text extraction  
 
-Stack
+**Stack**
 
 Python • Flask • GigaChat • Yandex OCR
 
@@ -89,20 +88,18 @@ Python • Flask • GigaChat • Yandex OCR
 
 ## 🤖 Telegram RAG Bot
 
-Repository:  
 https://github.com/DeNICE-AI/telegram-bot-rag
 
-Telegram bot powered by Retrieval‑Augmented Generation (RAG).
+Telegram bot powered by **Retrieval-Augmented Generation (RAG)**.
 
-Capabilities
+**Features**
 
-- AI chat with contextual knowledge
-- document understanding
-- prompt processing
-- automation workflows
-- caching and knowledge retrieval
+- AI chat with contextual knowledge  
+- document understanding  
+- prompt processing  
+- caching and knowledge retrieval  
 
-Stack
+**Stack**
 
 Python • Telegram Bot API • SQLite • LLM APIs
 
@@ -110,20 +107,19 @@ Python • Telegram Bot API • SQLite • LLM APIs
 
 # 🧠 What I Like Building
 
-- AI assistants
-- intelligent chatbots
-- automation systems
-- document processing pipelines
-- AI‑powered analysis tools
+- AI assistants  
+- intelligent chatbots  
+- automation systems  
+- document processing pipelines  
+- AI-powered analysis tools  
 
 ---
 
-# ⚡ Focus Areas
+# 📊 GitHub Activity
 
-AI‑powered automation  
-LLM integrations  
-backend services  
-intelligent data processing  
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeNICE-AI&theme=github-dark"/>
+</p>
 
 ---
 
